@@ -2,7 +2,7 @@
 My first homepage.
 
 ## DEMO
-[WEBSITE](https://tomecky1.github.io/homepage/)
+[WEBSITE PREVIEW](https://tomecky1.github.io/homepage/)
 
 ### OPIS
 
