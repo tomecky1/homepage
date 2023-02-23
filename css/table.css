@@ -1,0 +1,26 @@
+.table {
+    border-collapse: collapse;
+    border: 3px solid #000;
+    width: 100%;
+    box-shadow: 20px 20px 24px 20px #FF5C11;
+}
+
+.table__cells {
+    border: 1px dotted crimson;
+    text-align: center;
+    padding: 20px 10px;
+}
+
+.table__row:nth-child(even) {
+    background-color: #d3d3d3;
+}
+
+.table__row:hover {
+    background-color: #000;
+    color: #fff;
+}
+
+.table__header {
+    color: crimson;
+    background: yellow;
+}

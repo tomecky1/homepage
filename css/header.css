@@ -1,0 +1,14 @@
+.header__header {
+    color: #fff;
+    background-color: black;
+}
+
+.header__paragraph {
+    background-color: #d3d3d3;
+} 
+
+.header__image {
+    text-align: center;
+    box-shadow: 20px 20px 24px 6px #1180FF;
+    margin: 40px;
+}

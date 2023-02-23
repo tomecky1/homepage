@@ -1,0 +1,11 @@
+.main__genesis {
+    text-shadow: 1px 2px 5px #5d5b5b ;
+}
+
+.main__prize {
+    color: crimson;
+}
+
+.main__container {
+    overflow-x: auto;
+}

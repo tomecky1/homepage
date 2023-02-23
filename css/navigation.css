@@ -1,0 +1,32 @@
+.navigation {
+    text-align: center;
+    margin: 20px;
+}
+
+.navigation__list {
+    list-style: none;
+}
+
+.navigation__listItem {
+    display: inline-block;
+    margin: 25px 10px;
+}
+
+.navigation__link {
+    text-decoration: none;
+    padding: 20px 10px;
+    background: #0c85e2;
+    color: darkorange;
+    border: 1px solid #000;
+    border-radius: 5px;
+}
+
+.navigation__link:hover {
+    background: yellow;
+    color: crimson;
+}
+
+.navigation__link:active{
+    background: #000;
+    color: #fff;
+}

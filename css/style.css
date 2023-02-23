@@ -1,0 +1,23 @@
+html {
+    box-sizing: border-box;
+}
+
+*, *::after, *::before {
+    box-sizing: inherit;
+}
+
+.body {
+    max-width: 1000px;
+    margin: 0 auto;
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.5;
+}
+
+.footer {
+    text-align: center;
+    margin: 20px;
+}
+
+.background {
+    background: pink;
+}
