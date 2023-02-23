@@ -7,4 +7,4 @@ My first homepage.
 ### OPIS
 
 This is my personal homepage.
-Best Regards, and have a nice day :-)
+Best Regards, and have a nice day ✌
