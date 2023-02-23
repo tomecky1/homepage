@@ -18,11 +18,11 @@
   };
 
   const init = () => {
-    const btnChange = document.querySelector(".js-btnColor");
+    const buttonChange = document.querySelector(".js-buttonColor");
 
     const button = document.querySelector(".js-button");
 
-    btnChange.addEventListener("click", toggleBackground);
+    buttonChange.addEventListener("click", toggleBackground);
     button.addEventListener("click", removeImage);
 
     welcome();
